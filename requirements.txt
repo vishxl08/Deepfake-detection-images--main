@@ -1,0 +1,10 @@
+tqdm
+matplotlib
+seaborn
+scikit-learn
+numpy
+ipykernel
+torch
+torchvision
+streamlit
+Pillow
