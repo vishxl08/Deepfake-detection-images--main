@@ -120,14 +120,6 @@ Confusion Matrix Example:
 - Add model retraining pipeline for incremental learning
 
 ------------------------------------------------------------
-👨‍💻 Author
-------------------------------------------------------------
-
-Hero 0P  
-Deep Learning Developer | AI Research Enthusiast  
-GitHub: https://github.com/Hero0p
-
-------------------------------------------------------------
 🪶 License
 ------------------------------------------------------------
 
